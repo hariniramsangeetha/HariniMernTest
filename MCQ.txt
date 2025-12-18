@@ -1,0 +1,14 @@
+Name: ______HARINI______________
+Roll No: ___24CC020______________
+Date: ________19/12/2025___________
+
+Section A - MCQ Answers:
+Q1: __b_ Q2: __d_ Q3: _c__ Q4: __b_ Q5: _b__
+Q6: __b_ Q7: __c_ Q8: __b_ Q9: _b__ Q10: __b_
+
+Section A - Short Answers:
+Q11: req.params gets URL values, req.query gets query string values, and req.body gets data sent in the request body.
+Q12: Password hashing protects user data by storing irreversible encrypted values instead of plain text passwords.
+Q13: Rate limiting restricts the number of API requests to prevent abuse and attacks.
+Q14:Rate limiting restricts the number of API requests to prevent abuse and attacks.
+Q15:findOne() returns a single document, while find() returns an array of documents.
